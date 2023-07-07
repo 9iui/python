@@ -1,2 +1,2 @@
 # python
-learning pythn for automation 
+learning python for automation 
